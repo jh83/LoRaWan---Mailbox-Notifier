@@ -2,7 +2,7 @@
 
 My take on building a "mailbox notifier" device which will notify me when new mail arrives.
 
-The mailbox has two doors. One door is used to put the mail into the mailbox, and the other one is opened to collect the mail.
+The mailbox for which this device is designed has two doors. One door is used to put the mail into the mailbox, and the other one is opened to collect the mail.
 
 ## Requirements from my side when deciding on a solution
 
